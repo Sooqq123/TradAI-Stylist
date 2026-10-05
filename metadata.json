@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Việt Phục Remix",
+  "description": "Trợ lý phối trang phục truyền thống Việt Nam cho Gen Z dịp Tết và du xuân",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
